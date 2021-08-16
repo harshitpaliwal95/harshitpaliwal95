@@ -1,7 +1,7 @@
-# Konichiwa 👋
+# Harshit Paliwal 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="200" width="300" alt="GIF" align="center" src="https://github.com/harshitpaliwal95/harshitpaliwal95/blob/main/GIF/itachi-sharingan.gif">
 </div>
 
 </br>
@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 18 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I m Harshit😁 love to learn and code 
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
