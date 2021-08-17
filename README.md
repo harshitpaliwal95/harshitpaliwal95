@@ -84,11 +84,11 @@ If you want to reach out to me about anything, just ping me 😉😁.
 </br>
 <div align ="center">
  <p>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitpaliwal95&show_icons=true&locale=en&layout=compact&theme=radical" alt="harshitpaliwal95" /></p>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitpaliwal95&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="harshitpaliwal95" /></p>
 </br>
 </br>
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitpaliwal95&show_icons=true&theme=radical" alt="harshitpaliwal95" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitpaliwal95&show_icons=true&theme=blue-green" alt="harshitpaliwal95" /></p>
 </div>
 
 *************
