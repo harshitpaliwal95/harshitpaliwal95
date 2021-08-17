@@ -1,4 +1,4 @@
-# Harshit Paliwal 👋
+# Harshit Paliwal <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="35px">
 
 <div align="center">
 <img hight="200" width="300" alt="GIF" align="center" src="https://github.com/harshitpaliwal95/harshitpaliwal95/blob/main/GIF/itachi-sharingan.gif">
