@@ -87,7 +87,7 @@ If you want to reach out to me about anything, just ping me 😉😁.
  <p>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitpaliwal95&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="harshitpaliwal95" /></p>
 </br>
-</br>
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitpaliwal95&theme=blue-green">
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitpaliwal95&show_icons=true&theme=blue-green" alt="harshitpaliwal95" /></p>
 </div>
