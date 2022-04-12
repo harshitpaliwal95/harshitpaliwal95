@@ -15,14 +15,15 @@
 
  <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/harshitpaliwal95/harshitpaliwal95/blob/main/GIF/333aa7192949f306823aa36bd6153d0e.gif">
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute to Open Source projects
+### - Skills:
+- ✨ Front-end Web development
+- ✨ Aspiring full-stack web developer
+- 🥅 2022 Goals: Contribute to Open Source projects get a job as Front-End developer
 
 ### - Hobbies : 
 - ✨ Watching Anime
 - ✨ Reading Novels
+- Building netWork
 
 </br>
 </br>
@@ -56,12 +57,19 @@
 
 
 If you want to reach out to me about anything, just ping me 😉😁.
+ 
+
+
 
 <a href="mailto:harshitpaliwal95@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="110" hight="80"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/harshit-paliwal-8302951b0/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" /> 
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+ <div>
+ <a href="https://twitter.com/harshit__hp">
+  <img align="left" alt="Linkedin"  width="120" hight="100" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> 
+  </div>
 </br>
 
 </a>
