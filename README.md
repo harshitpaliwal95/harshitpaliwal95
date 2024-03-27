@@ -11,19 +11,13 @@
 
 # About ME 💬:
 
-### - I m Harshit😁 (love to learn && love to code)
+### - I'm Harshit😁 I like to code
 
  <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/harshitpaliwal95/harshitpaliwal95/blob/main/GIF/333aa7192949f306823aa36bd6153d0e.gif">
 
-### - Skills:
-- ✨ Front-end Web development
-- ✨ Aspiring full-stack web developer
-- 🥅 2022 Goals: Contribute to Open Source projects get a job as Front-End developer
-
 ### - Hobbies : 
-- ✨ Watching Anime
+- ✨ Building Products
 - ✨ Reading Novels
-- Building netWork
 
 </br>
 </br>
